@@ -1,0 +1,5 @@
+[20-Jul-2018 17:15:01 UTC] PHP Fatal error:  Call to undefined method DbOperation::getSingleAuthorityImage() in /home/capsules/public_html/Juman/FRestApi/public/index.php on line 884
+[20-Jul-2018 17:21:09 UTC] PHP Fatal error:  Call to undefined method DbOperation::getSingleAuthorityImage() in /home/capsules/public_html/Juman/FRestApi/public/index.php on line 884
+[20-Jul-2018 17:22:04 UTC] PHP Fatal error:  Call to undefined method DbOperation::getSingleAuthorityImage() in /home/capsules/public_html/Juman/FRestApi/public/index.php on line 884
+[20-Jul-2018 17:22:26 UTC] PHP Fatal error:  Call to undefined method DbOperation::getSingleAuthorityImage() in /home/capsules/public_html/Juman/FRestApi/public/index.php on line 884
+[20-Jul-2018 17:24:06 UTC] PHP Fatal error:  Call to undefined method DbOperation::getSingleAuthorityImage() in /home/capsules/public_html/Juman/FRestApi/public/index.php on line 884
